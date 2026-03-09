@@ -1,0 +1,2 @@
+theia@theiaopenshift-valetaiac:/home/project/zntwk-tax_calculator$ docker run -it -d  -p 8080:80 tax-calculator
+cc74191e573e907e14ca36b757a1c57fe330cae98b9b170c8f8be991e8c119e9

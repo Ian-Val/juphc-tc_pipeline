@@ -1,0 +1,16 @@
+theia@theiaopenshift-valetaiac:/home/project/zntwk-tax_calculator$ docker push us.icr.io/${SN_ICR_NAMESPACE}/zntwk-tax-calculator
+Using default tag: latest
+The push refers to repository [us.icr.io/sn-labs-valetaiac/zntwk-tax-calculator]
+656cc5883105: Pushed 
+31ae16473721: Pushed 
+68a0553037d0: Pushed 
+5b04cc84c19b: Pushed 
+0fa12b6d23b8: Pushed 
+87026f913c5d: Pushed 
+d120c727e5e3: Pushed 
+a821e7df95cb: Pushed 
+b9ae255e9e51: Pushed 
+a507d5bc786a: Pushed 
+7351f826b314: Pushed 
+a257f20c716c: Pushed 
+latest: digest: sha256:28b233211bff7ef9de3eba163c9846651bc1338568805fde5023384c792520e6 size: 2816

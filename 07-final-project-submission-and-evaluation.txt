@@ -1,0 +1,3 @@
+https://github.com/Ian-Val/juphc-tc_pipeline/blob/main/tasks.yaml
+https://github.com/Ian-Val/juphc-tc_pipeline/blob/main/pipeline.yaml
+https://github.com/Ian-Val/juphc-tc_pipeline/blob/main/run.yaml

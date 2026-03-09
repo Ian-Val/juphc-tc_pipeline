@@ -1,0 +1,9 @@
+theia@theiaopenshift-valetaiac:/home/project/zntwk-tax_calculator$ npx jasmine
+Randomized with seed 12074
+Started
+.......
+
+
+7 specs, 0 failures
+Finished in 0.007 seconds
+Randomized with seed 12074 (jasmine --random=true --seed=12074)
